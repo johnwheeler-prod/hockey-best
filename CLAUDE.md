@@ -113,12 +113,15 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   Outcome: surgery, 6–8 months out. PHWA nominated him for the Bill Masterton Memorial Trophy.
   Sources: Russian Machine Never Breaks; Yahoo Sports; Fox News; ESPN
 
-- **Contrast — the NBA's load management problem:**
-  - **Kawhi Leonard, October 30, 2019:** Leonard sat out a nationally televised Clippers game at Utah. His coach, Doc Rivers, told media beforehand that Leonard **"has never felt better"** and there was "no concern." The NBA fined the Clippers **$50,000** the next day because Rivers's statement directly contradicted the league's own injury report. ESPN analyst Doris Burke: *"Kawhi not playing to me is ridiculous at this point. I don't understand it."* Leonard was the reigning NBA champion. He was healthy. He just didn't play.
-  - **Context:** This was the second consecutive week the Clippers had rested Leonard for a high-profile nationally televised game. He never played back-to-back games — a policy in place since 2017.
-  - **NBA Commissioner Adam Silver publicly stated in 2023** that load management had gone **"too far"** — the league introduced fines for teams whose stars sit out nationally televised games without documented injury.
-  - **The contrast:** Kyle Palmieri tore his ACL, stole the puck while being helped off the ice by trainers, passed to set up a goal, and was credited with an assist before surgery. Kawhi Leonard, healthy, sat out a national TV game. His coach was fined for saying he felt fine.
-  - Sources: NBC Sports; Washington Post; KSAT/Newsweek (Doris Burke quote); NBA.com (Adam Silver); Sportico
+- **Contrast — Jay Cutler, 2011 NFC Championship Game (January 23, 2011)**
+  - Bears vs. Packers. Super Bowl berth on the line. Cutler took a hit, suffered a **Grade II MCL sprain**, attempted one pass in the third quarter, his knee buckled, and he was done. The Bears lost 21–14.
+  - The reaction was immediate and national — and it came from fellow NFL players:
+    - Maurice Jones-Drew (Jaguars RB) tweeted: *"All I'm saying is that he can finish the game on a hurt knee... I played the whole season on one."*
+    - Eagles CB Asante Samuel: *"If he was my teammate I would be looking at him sideways."*
+  - A Grade II MCL sprain heals on its own in 3–4 weeks. No surgery. Cutler's own coach confirmed the trainers pulled him — it wasn't his choice.
+  - **The contrast:** Patrice Bergeron played 17:45 in a Stanley Cup Final with a broken rib, separated shoulder, and a lung that had collapsed. Gregory Campbell finished a penalty kill on a broken fibula. Jay Cutler left an NFC Championship with a knee sprain and was accused of quitting by active NFL players in real time.
+  - **The punchline:** In the NHL, that's called Tuesday.
+  - Sources: ESPN; Bleacher Report; CBS Chicago; Maurice Jones-Drew tweets (ESPN/NBC Sports)
 
 ### 9. Criterion 6 — Championship Difficulty
 - **Framing:** "How hard is it to actually win the whole thing?"
