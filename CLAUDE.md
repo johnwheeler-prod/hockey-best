@@ -41,13 +41,21 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 
 ### 4. Criterion 1 — Calories Burned
 - **Framing:** "How hard is this sport, physically, on a per-game basis?"
-- **The numbers:**
+- **The numbers (regulation):**
   - Hockey: ~1,800–2,500 cal/game (compressed into shift bursts — skaters are on the ice ~⅓ of the game)
   - Football: ~1,760 cal/game (ball in play for ~11 minutes total; average play lasts 4 seconds)
   - Baseball: ~1,000 cal/game for fielders; pitchers ~1,440 — and per at least one study, MLB position players may net-gain calories over the course of a game
   - Basketball: ~635 cal/game
 - **Punchline:** Hockey players burn the most calories per game while only being active for a fraction of it. Imagine if they played the whole time.
-- **Sources:** hockeyanswered.com; hockeychirpers.com; Buzzsaw Magazine (MLB calorie study)
+- **Overtime escalation (playoffs only):** Each OT period in the NHL playoffs is a full 20-minute sudden-death period — no shootout, no limit on how many can be played. Each adds ~600–833 calories on top of the regulation total:
+  - +1OT: ~2,400–3,333 cal
+  - +2OT: ~3,000–4,167 cal
+  - +3OT: ~3,600–5,000 cal
+  - Longest game ever (1936, 6OT, 176 total minutes): estimated **~5,000–7,000+ calories** — burned on deteriorating ice with no resurfacing equipment (the Zamboni hadn't been invented yet)
+- **Players eating real food in OT intermissions:** By the third or fourth overtime, players have burned through all available fuel and need to eat actual meals between periods to keep going. Documented examples:
+  - **2023 Panthers vs. Hurricanes (4OT, ECF Game 1):** Panthers players were eating pizza and Red Bull before the 4th OT. Carolina's Stefan Noesen ate chicken and rice. Brady Skjei ate four bananas during the game.
+  - **2000 Flyers vs. Penguins (5OT, ECF Game 4):** Some players were receiving IV drips. The arena in Pittsburgh ran out of food entirely.
+- **Sources:** hockeyanswered.com; hockeychirpers.com; Buzzsaw Magazine (MLB calorie study); NHL.com "Long NHL playoff games lead to scrambling behind scenes"; Fox News (Panthers 4OT game)
 
 ### 5. Criterion 2 — Physicality
 - **Framing:** "How much are players hitting each other, and how hard?"
@@ -105,7 +113,12 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   Outcome: surgery, 6–8 months out. PHWA nominated him for the Bill Masterton Memorial Trophy.
   Sources: Russian Machine Never Breaks; Yahoo Sports; Fox News; ESPN
 
-- **Contrast:** TBD — find examples of athletes in other sports who left games with comparatively minor injuries (or "load-managed" out of games)
+- **Contrast — the NBA's load management problem:**
+  - **Kawhi Leonard, October 30, 2019:** Leonard sat out a nationally televised Clippers game at Utah. His coach, Doc Rivers, told media beforehand that Leonard **"has never felt better"** and there was "no concern." The NBA fined the Clippers **$50,000** the next day because Rivers's statement directly contradicted the league's own injury report. ESPN analyst Doris Burke: *"Kawhi not playing to me is ridiculous at this point. I don't understand it."* Leonard was the reigning NBA champion. He was healthy. He just didn't play.
+  - **Context:** This was the second consecutive week the Clippers had rested Leonard for a high-profile nationally televised game. He never played back-to-back games — a policy in place since 2017.
+  - **NBA Commissioner Adam Silver publicly stated in 2023** that load management had gone **"too far"** — the league introduced fines for teams whose stars sit out nationally televised games without documented injury.
+  - **The contrast:** Kyle Palmieri tore his ACL, stole the puck while being helped off the ice by trainers, passed to set up a goal, and was credited with an assist before surgery. Kawhi Leonard, healthy, sat out a national TV game. His coach was fined for saying he felt fine.
+  - Sources: NBC Sports; Washington Post; KSAT/Newsweek (Doris Burke quote); NBA.com (Adam Silver); Sportico
 
 ### 9. Criterion 6 — Championship Difficulty
 - **Framing:** "How hard is it to actually win the whole thing?"
