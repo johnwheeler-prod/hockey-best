@@ -142,7 +142,24 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - The Conn Smythe Trophy (playoff MVP) is awarded for performance across **16–28 games**. The Super Bowl MVP is decided by a single afternoon.
 - **Sources:** Wikipedia (Stanley Cup/NBA/MLB/NFL playoffs); NHL.com; Bleacher Report
 
-### 10. The Moment of Sincerity
+### 10. The Honor Code
+- **Framing:** "You've seen what they play through. Now let's talk about who they are."
+- **The Crosby bench moment — Game 6, 2016 Stanley Cup Final (mic'd up footage):**
+  - On a 2-on-1 rush, Malkin feeds Chris Kunitz a wide-open net. Kunitz passes back instead of shooting. Teammates on the bench start muttering criticism.
+  - Crosby: *"Hey, guys, I think he knows. Like, go give him a f\*cking tap. It's okay. We'll get another f\*cking chance."*
+  - Then skated directly to Kunitz: *"Don't worry about it. Keep going, you'll get another one. Let's go!"*
+  - Source: Pittsburgh Penguins All-Access mic'd up video, Game 6
+- **The post-game interview cliché (played straight):**
+  - The "started in our own zone" deflection is so universal in hockey it's been satirized — there are viral compilation videos of players using the exact same phrases interchangeably.
+  - The argument: in other sports, stars openly take credit. In hockey, deflecting to teammates is genuine and culture-enforced. The Crosby clip is the proof point.
+  - Sources: Bleacher Report (20 Most Overused Clichés); Lighthouse Hockey Playoff Quotebook; Golf Digest compilation video
+- **Community investment:**
+  - **Hockey Fights Cancer:** $8.2M raised in 2024–25 alone (record); **$44M+ all-time** across 26 years; 25 research grants awarded
+  - **NHL + NHLPA combined:** $14M+ invested in communities in 2023–24; NHLPA Goals & Dreams program has donated $27M+ in equipment to grassroots hockey since 1999; NHL Industry Growth Fund has invested $180M+ over its first decade
+  - **Hockey is for Everyone:** 120,000+ children given access to hockey since 1998
+  - Sources: NHLPA.com; NHL.com Foundation; V Foundation
+
+### 11. The Moment of Sincerity
 - Drop the bit entirely for one slide
 - A genuine case for what makes hockey actually special:
   - The speed — no other team sport moves this fast
@@ -151,12 +168,24 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - The playoffs — nothing in sports matches the intensity of a Game 7 in overtime
 - *(Content to be developed further)*
 
-### 11. Counterarguments (Addressed and Dismissed)
+### 12. Counterarguments (Addressed and Dismissed)
 - "Hockey isn't popular in warm climates" → *(response TBD)*
 - "The NHL has a smaller fanbase than the NFL/NBA" → the trajectory argument: the NHL is the fastest-growing major sport right now
 - *(other objections TBD)*
 
-### 12. Conclusion
+### 13. The Shark Tank Pitch
+- **Hard pivot.** Full tonal break. New slide, new energy.
+- *"Sharks, I'm seeking **$2,250,850** for a **12% stake** in my venture."*
+- **What the money is for:**
+  - 3 high-end TV commercials, produced through a top-tier ad agency, to be run in your homes to convince your children to start playing ice hockey — **$750,000 each, $2,250,000 total**
+  - 1 complete set of adult recreational hockey equipment for the presenter — **$850**
+  - (The equipment budget also serves a secondary purpose: once the children start playing in a few years, the presenter will be sufficiently experienced to coach them)
+- **The math:**
+  - Total ask: $2,250,850
+  - At 12% stake: implied pre-money valuation of **$18,757,083** (~$18.75M)
+- **Sources:** Vidico/Simulmedia (commercial production costs); LatestCost/HockeyChirpers (equipment costs)
+
+### 14. Conclusion
 - Restate thesis with confidence
 - Scoreboard summary if that gag is running throughout
 - Thank the audience for attending this completely unbiased presentation
