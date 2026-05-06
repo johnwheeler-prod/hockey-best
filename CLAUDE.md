@@ -20,7 +20,12 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 - "Hockey is the Best of the Major 4 North American Sports (And It's Not Close)"
 - Presenter name, dramatic tagline TBD
 
-### 2. Credentials
+### 2. A Brief Note on the Color Scheme
+- Frame: audience asks "John, aren't you a Bruins fan? Why are those the Minnesota Wild colors?"
+- Response: "Look, I wish the Bruins had the best colors — but they just don't. The Wild objectively have the best colors and jerseys in the league, so that's what I went with."
+- Proceed.
+
+### 3. Credentials
 - Frame: audience proxy asks "John, these are bold claims. What are your credentials and qualifications?"
 - Response: "Great question."
   1. Started skating at age 3; played in a hockey league for the first time at age 4
@@ -28,7 +33,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   3. Has consistently watched hockey for most of his life — has seen the game evolve from an extremely physical and slightly (emphasis on slightly) lower-skill game into a razor-thin margin, ultra-high-skill but still immensely physical game
 - Implied conclusion: fully qualified. Proceeding.
 
-### 3. The Criteria
+### 4. The Criteria
 - "I will be defining the criteria. The criteria will be fair. (They will not be fair.)"
 - Acknowledge the conflict of interest; proceed anyway
 - Introduce the 6 criteria that will be used to evaluate each sport:
@@ -39,7 +44,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   5. Resilience of players — measured by severity of injuries played through
   6. Difficulty of winning the championship
 
-### 4. Criterion 1 — Calories Burned
+### 5. Criterion 1 — Calories Burned
 - **Framing:** "How hard is this sport, physically, on a per-game basis?"
 - **The numbers (regulation):**
   - Hockey: ~1,800–2,500 cal/game (compressed into shift bursts — skaters are on the ice ~⅓ of the game)
@@ -57,7 +62,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - **2000 Flyers vs. Penguins (5OT, ECF Game 4):** Some players were receiving IV drips. The arena in Pittsburgh ran out of food entirely.
 - **Sources:** hockeyanswered.com; hockeychirpers.com; Buzzsaw Magazine (MLB calorie study); NHL.com "Long NHL playoff games lead to scrambling behind scenes"; Fox News (Panthers 4OT game)
 
-### 5. Criterion 2 — Physicality
+### 6. Criterion 2 — Physicality
 - **Framing:** "How much are players hitting each other, and how hard?"
 - **The numbers:**
   - NHL: ~40–50+ combined hits per game; individual leaders log 4–5 hits/game
@@ -66,7 +71,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 - **Caveat to acknowledge (then dismiss):** The Sports Science methodology has critics (different types of hits were compared). Noted. Moving on.
 - **Sources:** HFBoards/Sports Science citation; Bleacher Report NHL-NFL toughness piece
 
-### 6. Criterion 3 — Hardest Skills
+### 7. Criterion 3 — Hardest Skills
 - **Framing:** "What does it take to be good at this sport?"
 - **The anchor stat:** ESPN assembled a panel of sports scientists, Olympians, journalists, and two-sport athletes to rate 60 sports across 10 athletic skill categories.
   - Result: Ice Hockey ranked **#2 out of 60 sports** — behind only boxing, ahead of football, basketball, and baseball
@@ -75,7 +80,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 - **The reframe:** Baseball has *one* hard skill. Hockey requires you to skate (itself an elite motor skill), stickhandle, pass, and shoot — simultaneously, while opponents are hitting you at 35g. The ESPN panel agreed.
 - **Sources:** ESPN Degree of Difficulty; Popular Science (baseball hitting difficulty)
 
-### 7. Criterion 4 — TV Ratings / Trajectory
+### 8. Criterion 4 — TV Ratings / Trajectory
 - **Framing:** "Where is each sport headed? What does the trend say?"
 - **NHL (going up):**
   - 2023–24: averaged 504,000 viewers/game across ABC/ESPN/TNT, up **8% YoY**; ESPN alone up **25% YoY**
@@ -90,7 +95,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 - **MLB:** Quietly not growing. Skipping past this one quickly.
 - **Sources:** ESPN Press Room; Sportico; Sports Media Watch
 
-### 8. Criterion 5 — Injury Resilience
+### 9. Criterion 5 — Injury Resilience
 - **Framing:** "What does a player endure to keep competing? How much will they give?"
 - **The examples (presented as a highlight reel of sacrifice):**
 
@@ -123,7 +128,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - **The punchline:** In the NHL, that's called Tuesday.
   - Sources: ESPN; Bleacher Report; CBS Chicago; Maurice Jones-Drew tweets (ESPN/NBC Sports)
 
-### 9. Criterion 6 — Championship Difficulty
+### 10. Criterion 6 — Championship Difficulty
 - **Framing:** "How hard is it to actually win the whole thing?"
 - **The table:**
 
@@ -142,7 +147,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - The Conn Smythe Trophy (playoff MVP) is awarded for performance across **16–28 games**. The Super Bowl MVP is decided by a single afternoon.
 - **Sources:** Wikipedia (Stanley Cup/NBA/MLB/NFL playoffs); NHL.com; Bleacher Report
 
-### 10. The Honor Code
+### 11. The Honor Code
 - **Framing:** "You've seen what they play through. Now let's talk about who they are."
 - **The Crosby bench moment — Game 6, 2016 Stanley Cup Final (mic'd up footage):**
   - On a 2-on-1 rush, Malkin feeds Chris Kunitz a wide-open net. Kunitz passes back instead of shooting. Teammates on the bench start muttering criticism.
@@ -159,7 +164,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - **Hockey is for Everyone:** 120,000+ children given access to hockey since 1998
   - Sources: NHLPA.com; NHL.com Foundation; V Foundation
 
-### 11. The Moment of Sincerity
+### 12. The Moment of Sincerity
 - Drop the bit entirely for one slide
 - A genuine case for what makes hockey actually special:
   - The speed — no other team sport moves this fast
@@ -168,12 +173,12 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - The playoffs — nothing in sports matches the intensity of a Game 7 in overtime
 - *(Content to be developed further)*
 
-### 12. Counterarguments (Addressed and Dismissed)
+### 13. Counterarguments (Addressed and Dismissed)
 - "Hockey isn't popular in warm climates" → *(response TBD)*
 - "The NHL has a smaller fanbase than the NFL/NBA" → the trajectory argument: the NHL is the fastest-growing major sport right now
 - *(other objections TBD)*
 
-### 13. The Shark Tank Pitch
+### 14. The Shark Tank Pitch
 - **Hard pivot.** Full tonal break. New slide, new energy.
 - *"Sharks, I'm seeking **$2,250,850** for a **12% stake** in my venture."*
 - **What the money is for:**
@@ -185,7 +190,7 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - At 12% stake: implied pre-money valuation of **$18,757,083** (~$18.75M)
 - **Sources:** Vidico/Simulmedia (commercial production costs); LatestCost/HockeyChirpers (equipment costs)
 
-### 14. Conclusion
+### 15. Conclusion
 - Restate thesis with confidence
 - Scoreboard summary if that gag is running throughout
 - Thank the audience for attending this completely unbiased presentation
@@ -201,3 +206,13 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
 - **Interactivity:** Vanilla JavaScript only — no frameworks, no build step
 - **Fonts/assets:** TBD as design takes shape
 - **Target:** Desktop browser (this is a live presentation, not a mobile site)
+
+### Color Palette — Minnesota Wild
+*(The presenter is a Bruins fan. The Wild have the best colors. These are not in conflict.)*
+
+| Name | Hex | Usage |
+|------|-----|-------|
+| Forest Green | `#154734` | Primary background, headings |
+| Red | `#AF1E2D` | Accents, highlights, emphasis |
+| Wheat | `#DDCBA4` | Body text, secondary backgrounds |
+| Gold | `#EAAA00` | Tertiary accent, decorative |

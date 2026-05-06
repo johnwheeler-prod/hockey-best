@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hockey is the Best</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="slide-nav" aria-label="Slide navigation">
+    <button class="nav-btn" id="prev-btn" aria-label="Previous slide">&#8593;</button>
+    <span class="slide-counter"><span id="current-slide">1</span> / <span id="total-slides">15</span></span>
+    <button class="nav-btn" id="next-btn" aria-label="Next slide">&#8595;</button>
+  </nav>
+
+  <main class="deck" id="deck">
+
+    <!-- 1. Title -->
+    <section class="slide slide--dark" id="slide-1" data-slide="1">
+      <div class="slide__content slide__content--center">
+        <p class="slide__eyebrow">A Powerpoint Party Presentation</p>
+        <h1 class="slide__title slide__title--hero">Hockey is the Best of the Major 4 North American Sports</h1>
+        <p class="slide__subtitle">(And It's Not Close)</p>
+        <p class="slide__presenter">John Wheeler</p>
+      </div>
+    </section>
+
+    <!-- 2. Color Scheme Aside -->
+    <section class="slide slide--wheat" id="slide-2" data-slide="2">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">A Brief Note</p>
+        <h2 class="slide__heading">John, aren't you a Bruins fan?</h2>
+        <p class="slide__body">Why are those the Minnesota Wild colors?</p>
+        <div class="slide__response">
+          <p>Look.</p>
+          <p>I wish the Bruins had the best colors.</p>
+          <p>They just don't.</p>
+          <p>The Wild objectively have the best colors and jerseys in the league.</p>
+          <p>So that's what I went with.</p>
+        </div>
+        <p class="slide__body slide__body--muted">Anyway.</p>
+      </div>
+    </section>
+
+    <!-- 3. Credentials -->
+    <section class="slide slide--dark" id="slide-3" data-slide="3">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Before We Begin</p>
+        <h2 class="slide__heading">"John, these are bold claims.<br>What are your credentials?"</h2>
+        <p class="slide__subheading">Great question.</p>
+        <ol class="slide__list">
+          <li>Started skating at age 3. First hockey league at age 4.</li>
+          <li>Played hockey for over a decade.</li>
+          <li>Has watched hockey for most of his life — and seen it evolve from an extremely physical, slightly <em>(emphasis on slightly)</em> lower-skill game into a razor-thin margin, ultra-high-skill, but still immensely physical game.</li>
+        </ol>
+        <p class="slide__body slide__body--muted">Fully qualified. Proceeding.</p>
+      </div>
+    </section>
+
+    <!-- 4. The Criteria -->
+    <section class="slide slide--red" id="slide-4" data-slide="4">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">The Framework</p>
+        <h2 class="slide__heading">I will be defining the criteria.</h2>
+        <p class="slide__subheading">The criteria will be fair.</p>
+        <p class="slide__aside">(They will not be fair.)</p>
+        <ol class="slide__list">
+          <li>Difficulty — calories burned per game</li>
+          <li>Physicality of play</li>
+          <li>Hardest skills required by position</li>
+          <li>TV ratings trajectory</li>
+          <li>Player resilience — injuries played through</li>
+          <li>Difficulty of winning the championship</li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- 5. Criterion 1 — Calories -->
+    <section class="slide slide--dark" id="slide-5" data-slide="5">
+      <div class="slide__content slide__content--center">
+        <p class="slide__eyebrow">Criterion 1</p>
+        <h2 class="slide__heading">Difficulty of the Game</h2>
+        <p class="slide__subheading">Measured by: calories burned per game</p>
+        <div class="slide__table-wrap">
+          <table class="slide__table">
+            <thead>
+              <tr><th>Sport</th><th>Cal / Game</th><th>Note</th></tr>
+            </thead>
+            <tbody>
+              <tr class="row--winner"><td>Hockey</td><td>1,800–2,500</td><td>Active for ~⅓ of the game</td></tr>
+              <tr><td>Football</td><td>~1,760</td><td>Ball in play for ~11 minutes total</td></tr>
+              <tr><td>Baseball</td><td>~1,000</td><td>Position players may net-gain calories</td></tr>
+              <tr><td>Basketball</td><td>~635</td><td>&nbsp;</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="slide__body">Hockey players burn the most calories while only active for a fraction of the game.</p>
+        <p class="slide__body slide__body--muted">Imagine if they played the whole time.</p>
+      </div>
+    </section>
+
+    <!-- 5b. Calories — Overtime -->
+    <section class="slide slide--dark" id="slide-5b" data-slide="5">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 1, continued</p>
+        <h2 class="slide__heading">Oh, and then there's overtime.</h2>
+        <p class="slide__body">NHL playoff overtime: full 20-minute sudden-death periods. No shootout. No limit.</p>
+        <div class="slide__table-wrap">
+          <table class="slide__table">
+            <thead><tr><th>Scenario</th><th>Est. Calories</th></tr></thead>
+            <tbody>
+              <tr><td>Regulation</td><td>1,800–2,500</td></tr>
+              <tr><td>+1 OT</td><td>2,400–3,333</td></tr>
+              <tr><td>+2 OT</td><td>3,000–4,167</td></tr>
+              <tr><td>+3 OT</td><td>3,600–5,000</td></tr>
+              <tr class="row--winner"><td>1936 (6 OT, 176 min, no Zamboni)</td><td>~5,000–7,000+</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="slide__body">By the 3rd or 4th overtime, players are eating actual meals between periods.</p>
+        <p class="slide__body slide__body--muted">2023 ECF Game 1 (4OT): pizza, Red Bull, chicken &amp; rice, four bananas.<br>
+        2000 ECF Game 4 (5OT): IV drips. The arena in Pittsburgh ran out of food.</p>
+      </div>
+    </section>
+
+    <!-- 6. Criterion 2 — Physicality -->
+    <section class="slide slide--wheat" id="slide-6" data-slide="6">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 2</p>
+        <h2 class="slide__heading">Physicality of Play</h2>
+        <ul class="slide__list slide__list--bullets">
+          <li>NHL: ~40–50+ combined hits per game</li>
+          <li>NHL hits average <strong>35g peak acceleration</strong> vs. NFL's 29.2g</li>
+          <li>That's ~17% harder — despite NHL players being nearly 20% smaller</li>
+          <li>Physics: skating velocity at contact exceeds running velocity</li>
+          <li>NBA / MLB: no meaningful full-body contact as a core game mechanic</li>
+        </ul>
+        <p class="slide__aside">* The Sports Science methodology has critics. Noted. Moving on.</p>
+      </div>
+    </section>
+
+    <!-- 7. Criterion 3 — Hardest Skills -->
+    <section class="slide slide--dark" id="slide-7" data-slide="7">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 3</p>
+        <h2 class="slide__heading">Hardest Skills Required</h2>
+        <p class="slide__body">ESPN rated 60 sports across 10 athletic skill categories.</p>
+        <p class="slide__stat">#2 of 60</p>
+        <p class="slide__body">Ice Hockey — behind only boxing. Ahead of football, basketball, and baseball.</p>
+        <hr class="slide__rule">
+        <p class="slide__body"><strong>But wait</strong> — hitting a baseball is the hardest single skill in sports.<br>
+        95mph fastball. 400ms to the plate. 150ms to decide. Half-inch margin of error.<br>
+        Michael Jordan couldn't do it.</p>
+        <p class="slide__body slide__body--muted">Baseball has <em>one</em> hard skill.<br>
+        Hockey requires you to skate, stickhandle, pass, and shoot — simultaneously — while someone hits you at 35g.<br>
+        The ESPN panel agreed.</p>
+      </div>
+    </section>
+
+    <!-- 8. Criterion 4 — Ratings -->
+    <section class="slide slide--red" id="slide-8" data-slide="8">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 4</p>
+        <h2 class="slide__heading">TV Ratings Trajectory</h2>
+        <div class="slide__two-col">
+          <div class="slide__col slide__col--good">
+            <h3>NHL ↑</h3>
+            <ul class="slide__list slide__list--bullets">
+              <li>2025–26: up <strong>~40% YoY</strong> — fastest growth of any major sport</li>
+              <li>2024 SCF Game 7: 7.7M viewers, peaked at 10.3M</li>
+              <li>2024 playoffs: up <strong>60%</strong> vs. prior year</li>
+            </ul>
+          </div>
+          <div class="slide__col slide__col--bad">
+            <h3>NBA ↓</h3>
+            <ul class="slide__list slide__list--bullets">
+              <li>Down <strong>~50%</strong> since 2011–12</li>
+              <li>2024–25: down another 2%, early-season drops as steep as 20%</li>
+              <li>Load management. Stars sitting out national TV games.</li>
+            </ul>
+          </div>
+        </div>
+        <p class="slide__body slide__body--muted">NFL: still dominant. This is the one honest concession.<br>MLB: not growing. Moving on.</p>
+      </div>
+    </section>
+
+    <!-- 9. Criterion 5 — Resilience -->
+    <section class="slide slide--dark" id="slide-9" data-slide="9">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 5</p>
+        <h2 class="slide__heading">Player Resilience</h2>
+        <p class="slide__subheading">A highlight reel of sacrifice.</p>
+        <div class="slide__cases">
+          <div class="slide__case">
+            <strong>Patrice Bergeron — 2013 SCF Game 6</strong><br>
+            Torn rib cartilage. Broken rib. Separated shoulder. Punctured lung.<br>
+            <em>24 shifts. 17:45 of ice time. Hospitalized 3 days after.</em>
+          </div>
+          <div class="slide__case">
+            <strong>Gregory Campbell — 2013 ECF Game 3</strong><br>
+            Blocked a Malkin slap shot. Broke his fibula.<br>
+            <em>Got up. Finished the penalty kill on one leg (~47 seconds). Done for the playoffs.</em>
+          </div>
+          <div class="slide__case">
+            <strong>Zdeno Chara — 2019 SCF</strong><br>
+            Multiple jaw fractures. Two plates, wires, and screws surgically installed.<br>
+            <em>Returned for Games 5, 6, and 7. Could not chew. 16+ minutes per game.</em>
+          </div>
+          <div class="slide__case">
+            <strong>Kyle Palmieri — November 28, 2025</strong><br>
+            Tore his ACL. While being helped off the ice by trainers —<br>
+            <em>stole the puck. Set up a goal. Credited with an assist. Then went to surgery.</em>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 9b. Resilience contrast — Cutler -->
+    <section class="slide slide--wheat" id="slide-9b" data-slide="9">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Criterion 5, for contrast</p>
+        <h2 class="slide__heading">Jay Cutler — 2011 NFC Championship</h2>
+        <p class="slide__body">Bears vs. Packers. Super Bowl berth on the line.</p>
+        <p class="slide__body">Cutler suffered a Grade II MCL sprain. Attempted one pass in the third quarter. His knee buckled. He was done.</p>
+        <p class="slide__body">The reaction, from fellow NFL players, in real time:</p>
+        <blockquote class="slide__quote">
+          "All I'm saying is that he can finish the game on a hurt knee... I played the whole season on one."
+          <cite>— Maurice Jones-Drew, Jacksonville Jaguars RB</cite>
+        </blockquote>
+        <blockquote class="slide__quote">
+          "If he was my teammate I would be looking at him sideways."
+          <cite>— Asante Samuel, Eagles CB</cite>
+        </blockquote>
+        <p class="slide__body slide__body--muted">A Grade II MCL sprain heals on its own in 3–4 weeks. No surgery required.<br>
+        His own coach confirmed: the trainers made the call. It wasn't Cutler's choice.</p>
+        <p class="slide__body"><strong>In the NHL, that's called Tuesday.</strong></p>
+      </div>
+    </section>
+
+    <!-- 10. Criterion 6 — Championship Difficulty -->
+    <section class="slide slide--dark" id="slide-10" data-slide="10">
+      <div class="slide__content slide__content--center">
+        <p class="slide__eyebrow">Criterion 6</p>
+        <h2 class="slide__heading">Difficulty of Winning the Championship</h2>
+        <div class="slide__table-wrap">
+          <table class="slide__table">
+            <thead>
+              <tr><th>League</th><th>Playoff Teams</th><th>% of League</th><th>Format</th><th>Wins Needed</th></tr>
+            </thead>
+            <tbody>
+              <tr class="row--winner"><td>NHL</td><td>16 of 32</td><td>50%</td><td>All best-of-7</td><td><strong>16</strong></td></tr>
+              <tr><td>NBA</td><td>16 of 30 + play-in</td><td>~53%</td><td>All best-of-7</td><td>16</td></tr>
+              <tr><td>MLB</td><td>12 of 30</td><td>40%</td><td>BO-3 / BO-5 / BO-7 / BO-7</td><td>11</td></tr>
+              <tr><td>NFL</td><td>14 of 32</td><td>44%</td><td>All single-elimination</td><td><strong>4</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <ul class="slide__list slide__list--bullets">
+          <li>NFL: 4 wins. One bad afternoon wins a championship.</li>
+          <li>NHL: survive a best-of-7 gauntlet — four times over.</li>
+          <li>No team has ever gone 16-0 in the Stanley Cup Playoffs. Closest: Edmonton 1988, 16-2.</li>
+          <li>The Super Bowl MVP is decided by one afternoon. The Conn Smythe covers 16–28 games.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 11. The Honor Code -->
+    <section class="slide slide--red" id="slide-11" data-slide="11">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">But also</p>
+        <h2 class="slide__heading">The Honor Code</h2>
+        <p class="slide__subheading">You've seen what they play through.<br>Now let's talk about who they are.</p>
+        <div class="slide__case">
+          <strong>Game 6, 2016 Stanley Cup Final — Sidney Crosby, mic'd up</strong><br>
+          Malkin feeds Kunitz a wide-open net. Kunitz passes back. Doesn't score. Bench starts grumbling.
+        </div>
+        <blockquote class="slide__quote">
+          "Hey, guys — I think he knows. Like, go give him a f*cking tap. It's okay. We'll get another f*cking chance."
+          <cite>— Crosby, to the bench. Then skated directly to Kunitz: "Don't worry about it. Keep going, you'll get another one. Let's go!"</cite>
+        </blockquote>
+        <hr class="slide__rule">
+        <p class="slide__body">The "it started in our own zone" post-game deflection is so universal in hockey it's been satirized — viral compilations of players using the exact same phrases interchangeably. In other sports, stars take credit. In hockey, the culture enforces the opposite.</p>
+      </div>
+    </section>
+
+    <!-- 11b. Community -->
+    <section class="slide slide--red" id="slide-11b" data-slide="11">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">The Honor Code, continued</p>
+        <h2 class="slide__heading">And then there's what they do off the ice.</h2>
+        <ul class="slide__list slide__list--bullets">
+          <li><strong>Hockey Fights Cancer:</strong> $8.2M raised in 2024–25 (a record). $44M+ all-time across 26 years. 25 research grants awarded.</li>
+          <li><strong>NHL + NHLPA combined:</strong> $14M+ invested in communities in 2023–24 alone.</li>
+          <li><strong>NHLPA Goals &amp; Dreams:</strong> $27M+ in equipment donated to grassroots hockey since 1999.</li>
+          <li><strong>NHL Industry Growth Fund:</strong> $180M+ invested over its first decade.</li>
+          <li><strong>Hockey is for Everyone:</strong> 120,000+ children given access to the sport since 1998.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 12. The Moment of Sincerity -->
+    <section class="slide slide--dark slide--sincere" id="slide-12" data-slide="12">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Okay, for real though.</p>
+        <h2 class="slide__heading">Why Hockey is Actually Special</h2>
+        <ul class="slide__list slide__list--bullets">
+          <li>The speed — no other team sport moves this fast</li>
+          <li>The physicality <em>and</em> the skill, coexisting — it is both the hardest-hitting and the most technically demanding</li>
+          <li>The culture — the handshake line after a playoff series. Players who spent years hating each other, shaking hands and meaning it.</li>
+          <li>The playoffs — nothing in sports matches the intensity of a Game 7 in overtime</li>
+        </ul>
+        <p class="slide__body slide__body--muted">*(Content to be developed further)*</p>
+      </div>
+    </section>
+
+    <!-- 13. Counterarguments -->
+    <section class="slide slide--wheat" id="slide-13" data-slide="13">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">Objections</p>
+        <h2 class="slide__heading">Counterarguments,<br>Addressed and Dismissed</h2>
+        <div class="slide__qa">
+          <div class="slide__q">"Hockey isn't popular in warm climates."</div>
+          <div class="slide__a">TBD</div>
+        </div>
+        <div class="slide__qa">
+          <div class="slide__q">"The NHL has a smaller fanbase than the NFL or NBA."</div>
+          <div class="slide__a">The NHL is the fastest-growing major sport right now. Fastest-growing. See Criterion 4.</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 14. Shark Tank -->
+    <section class="slide slide--dark" id="slide-14" data-slide="14">
+      <div class="slide__content slide__content--center slide__content--narrow">
+        <p class="slide__eyebrow">And Finally</p>
+        <h2 class="slide__heading">Sharks, I'm seeking <span class="slide__number">$2,250,850</span><br>for a <span class="slide__number">12%</span> stake in my venture.</h2>
+        <div class="slide__table-wrap">
+          <table class="slide__table">
+            <thead><tr><th>Line Item</th><th>Amount</th></tr></thead>
+            <tbody>
+              <tr><td>3 high-end TV commercials @ $750,000 each<br><small>To be run in your homes. To convince your children to play hockey.</small></td><td>$2,250,000</td></tr>
+              <tr><td>1 complete set of adult recreational hockey equipment<br><small>So I can coach those children in a few years.</small></td><td>$850</td></tr>
+              <tr class="row--winner"><td><strong>Total Ask</strong></td><td><strong>$2,250,850</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="slide__body slide__body--muted">Implied pre-money valuation: <strong>$18,757,083</strong></p>
+      </div>
+    </section>
+
+    <!-- 15. Conclusion -->
+    <section class="slide slide--red" id="slide-15" data-slide="15">
+      <div class="slide__content slide__content--center">
+        <p class="slide__eyebrow">In Conclusion</p>
+        <h1 class="slide__title slide__title--hero">Hockey is the Best.</h1>
+        <p class="slide__subtitle">It's not close.</p>
+        <p class="slide__body slide__body--muted">Thank you for attending this completely unbiased presentation.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>
