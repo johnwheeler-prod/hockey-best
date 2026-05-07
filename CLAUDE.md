@@ -165,18 +165,17 @@ A confident, slightly unhinged defense of hockey's supremacy over the NFL, NBA, 
   - Sources: NHLPA.com; NHL.com Foundation; V Foundation
 
 ### 12. The Moment of Sincerity
-- Drop the bit entirely for one slide
-- A genuine case for what makes hockey actually special:
-  - The speed — no other team sport moves this fast
-  - The physicality coexisting with the skill — it is both the hardest-hitting and most technically demanding
-  - The culture — the handshake line after a playoff series; players who grew up hating each other shaking hands and meaning it
-  - The playoffs — nothing in sports matches the intensity of a Game 7 in overtime
-- *(Content to be developed further)*
+- Drop the bit entirely for one slide. No irony.
+- Four panels:
+  1. **The Speed** — players skate at 20–25 mph sustained; ice removes deceleration cost; no other team sport operates at this tempo
+  2. **The Duality** — physicality and finesse are not a trade-off, they are simultaneous; same player takes a 35g hit and five seconds later threads a no-look pass
+  3. **The Handshake Line** — after a 7-game playoff series, every player on both teams shakes hands with every opponent; mandatory by culture not rule; unique in professional sports
+  4. **Game 7 Overtime** — sixty minutes couldn't separate you; twenty more of sudden death couldn't either; ends instantly, completely; the sound in the building changes your understanding of what sound can be
 
 ### 13. Counterarguments (Addressed and Dismissed)
-- "Hockey isn't popular in warm climates" → *(response TBD)*
-- "The NHL has a smaller fanbase than the NFL/NBA" → the trajectory argument: the NHL is the fastest-growing major sport right now
-- *(other objections TBD)*
+- **"Hockey isn't popular in warm climates."** → 5 of the last 6 Cups went to warm-weather markets (Tampa ×2, Vegas, Florida ×2). Vegas sold out every home game in year one at 103% capacity with a 2,500-person waitlist for year two. Florida leads the country in youth hockey enrollment growth. Someone forgot to tell the trophy.
+- **"The NHL has a smaller fanbase than the NFL/NBA."** → fastest-growing major sport, NHL up ~40% this season, NBA down 50% since 2011. Revisit in five years.
+- **"2–1 games are boring."** → baseball averages 4–3 and involves standing in a field for 3.5 hours. A 2–1 hockey game means both goalies were standing on their heads for 60 minutes. See also: Criterion 1, Overtime, where players eat pizza between periods to stay conscious.
 
 ### 14. The Shark Tank Pitch
 - **Hard pivot.** Full tonal break. New slide, new energy.

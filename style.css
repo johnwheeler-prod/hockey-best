@@ -292,6 +292,27 @@ body {
   font-size: 1.05rem;
 }
 
+/* ── Sincerity grid ── */
+.slide__sincere-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  text-align: left;
+}
+.slide__sincere-item h3 {
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.5rem;
+}
+.slide__sincere-item p {
+  font-size: 0.92rem;
+  line-height: 1.75;
+  opacity: 0.85;
+}
+
 /* ── Nav ── */
 .slide-nav {
   position: fixed;
